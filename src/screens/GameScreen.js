@@ -178,7 +178,6 @@ const styles = StyleSheet.create({
     fontFamily: font.primary400,
     textAlign: 'center',
     fontSize: 10,
-    marginBottom: 8,
   },
   btn: {
     flexDirection: 'row',
