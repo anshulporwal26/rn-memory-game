@@ -1,12 +1,9 @@
 import React from 'react';
-import {View, Text} from 'react-native';
+
+import GameScreen from './src/screens/GameScreen';
 
 const App = () => {
-  return (
-    <View>
-      <Text>Memory Game</Text>
-    </View>
-  );
+  return <GameScreen />;
 };
 
 export default App;
